@@ -5,3 +5,5 @@
 .idea
 
 */tsconfig.json
+
+placeholders/*.json
